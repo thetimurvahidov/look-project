@@ -1,0 +1,15 @@
+users
+    id
+    name
+    number  
+
+products
+    id
+    name
+    count
+    img
+
+orders  
+    userId
+    foodId
+    count
